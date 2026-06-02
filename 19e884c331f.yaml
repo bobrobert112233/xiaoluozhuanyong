@@ -1,0 +1,2 @@
+proxies:
+  - {"fingerprint":"","name":"🇭🇰HK_1|440KB/s","password":"d720a490-d56b-11ef-a1cb-f23c9313b177","port":8300,"server":"1b30bbb8-t9wqo0-tb5ob4-64gc.hkt.east.wctype.com","skip-cert-verify":false,"sni":"1b30bbb8-t9wqo0-tb5ob4-64gc.hkt.east.wctype.com","type":"anytls","udp":true,"username":"d720a490-d56b-11ef-a1cb-f23c9313b177"}
