@@ -1,0 +1,32 @@
+proxies:
+    - cipher: chacha20-ietf-poly1305
+      name: "\U0001F1E9\U0001F1EADE_1|368KB/s"
+      password: 4a4cb575-15bd-4664-b94d-2e6a6b4ccda8
+      port: "28655"
+      server: 109.120.138.95
+      type: ss
+      udp: true
+    - name: "\U0001F1EB\U0001F1F7FR_1|307KB/s"
+      password: 4f4d1167-ef14-4304-9bce-0740472503ef
+      port: 45619
+      server: 90081bb25c.node.tro.cac.cab
+      skip-cert-verify: true
+      sni: fr.01.naiun.bilibili.com
+      tls: false
+      type: trojan
+      udp: true
+    - name: "\U0001F1ED\U0001F1F0HK_1|329KB/s"
+      password: 3be8cba8-b721-11ec-8b04-f23c91cfbbc9
+      port: 8443
+      server: 199dc802-te5ts0-twuk0i-1hzyr.hkt2.cdnhuawei.com
+      skip-cert-verify: true
+      sni: 199dc802-te5ts0-twuk0i-1hzyr.hkt2.cdnhuawei.com
+      type: anytls
+    - name: "\U0001F1ED\U0001F1F0HK_2|314KB/s"
+      password: c11ff50c-f582-11ee-94df-f23c9164ca5d
+      port: 5228
+      server: 0936cb9d-t9zts0-tl09la-1q91p.cm4.oshuawei.com
+      sni: 0936cb9d-t9zts0-tl09la-1q91p.cm4.oshuawei.com
+      tls: true
+      type: http
+      username: c11ff50c-f582-11ee-94df-f23c9164ca5d
